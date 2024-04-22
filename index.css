@@ -1,1 +1,13 @@
 /*  css  */
+
+@charset "UTF-8";
+
+body{
+    background-color: aliceblue;
+
+}
+
+h1{
+    color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
